@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Ilmuwan Paling Terkenal</string>
+    <string name="name_scientist">Nama Ilmuwan</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Albert Einstein</item>
+        <item>Thomas Alva Edison</item>
+        <item>Sir Isaac Newton</item>
+        <item>Nikola Tesla</item>
+        <item>Galileo Galilei</item>
+        <item>Charles Robert Darwin</item>
+        <item>Charles Babbage</item>
+        <item>James Watt</item>
+        <item>Alexander Graham Bell</item>
+        <item>John Dalton</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Albert Einstein adalah fisikawan teoretis kelahiran Jerman yang mengembangkan teori relativitas satu dari dua pilar utama fisika modern (bersama mekanika kuantum) Karya-karyanya juga dikenal karena berpengaruh terhadap filsafat ilmu Persamaan Einstein yang paling dikenal adalah rumus kesetaraan massa-energi E = mc2 yang dijulukipersamaan paling terkenal di dunia" Einstein menerima Nobel Fisika pada tahun 1921atas jasanya terhadap fisika teoretis dan khususnya atas penemuannya tentang hukum efek fotolistrikyang menjadi langkah penting dalam pengembangan teori kuantum</item>
+        <item>Thomas Alva Edison adalah seorang penemu dan pengusaha Amerika yang digambarkan sebagai penemu terhebat Amerika ia mengembangkan banyak perangkat di berbagai bidang seperti pembangkit tenaga listrik komunikasi massa perekaman suara dan gambar bergerak Penemuan ini yang meliputi fonograf kamera film dan versi awal dari bola lampu listrik telah berdampak luas pada dunia industri modern Dia adalah salah satu penemu pertama yang menerapkan prinsip sains terorganisir dan kerja tim untuk proses penemuan bekerja dengan banyak peneliti dan karyawan Dia mendirikan laboratorium penelitian industri pertama</item>
+        <item>Sir Isaac Newton adalah seorang matematikawan Inggris fisikawan astronom teolog dan penulis (dijelaskan pada masanya sebagai filsuf alam) yang secara luas diakui sebagai salah satu ahli matematika terbesar dan ilmuwan paling berpengaruh sepanjang masa dan sebagai tokoh kunci dalam revolusi ilmiah Bukunya Philosophiæ Naturalis Principia Mathematica ( Prinsip Matematika Filsafat Alam ) pertama kali diterbitkan pada tahun 1687 mendirikan mekanika klasik Newton juga memberikan kontribusi penting untuk optik dan berbagi kredit dengan Gottfried Wilhelm Leibniz untuk mengembangkan kalkulus yang sangat kecil</item>
+        <item>Nikola Tesla adalah seorang penemu fisikawan teknisi mekanika dan teknisi listrik Serbia-Amerika Ia terkenal berkat kontribusinya dalam mendesain sistem kelistrikan arus bolak-balik Lahir dan dibesarkan di Kekaisaran Austria Tesla menyelesaikan pendidikannya dalam bidang teknik dan fisika tahun 1870-an</item>
+        <item>Galileo di Vincenzo Bonaiuti de Galilei adalah seorang astronom fisikawan dan insinyur Italia kadang-kadang digambarkan sebagai seorang polimatik dari PisaGalileo telah disebut sebagaibapak astronomi pengamatanbapak fisika modern"bapak metode ilmiahdanbapak ilmu modern sains Galileo mempelajari kecepatan dan kecepatan gravitasi dan jatuh bebas prinsip relativitas kelembaman gerak proyektil dan juga bekerja dalam sains dan teknologi terapan menjelaskan sifat-sifat pendulum dan keseimbangan hidrostatik Dia menemukan termoskop dan berbagai kompas militer dan menggunakan teleskop untuk pengamatan ilmiah benda langit Kontribusinya untuk astronomi pengamatan termasuk konfirmasi teleskopik fase Venus pengamatanempat satelit terbesar dari Jupiter pengamatan cincin Saturnus dan analisis bintik matahari</item>
+        <item>Charles Robert Darwin adalah seorang Inggris naturalis ahli geologi dan biologi terkenal karena kontribusi kepada ilmu evolusi Dalilnya bahwa semua spesies kehidupan telah diturunkan dari waktu ke waktu dari nenek moyang yang sama sekarang diterima secara luas dan dianggap sebagai konsep dasar dalam sains Dalam publikasi bersama denganAlfred Russel Wallace ia memperkenalkan teori ilmiah bahwa ini pola percabangan dari evolusi dihasilkan dari sebuah proses yang ia sebut seleksi alam di mana perjuangan untuk eksistensi memiliki efek yang sama dengan seleksi buatan yang terlibat dalam pembiakan selektif Darwin telah digambarkan sebagai salah satu tokoh paling berpengaruh dalam sejarah manusia dan dia dihormati dengan penguburan di Westminster Abbey</item>
+        <item>Charles Babbage adalah seorang Inggris polymath Seorang ahli matematika filsuf penemu dan insinyur mesin Babbage menciptakan konsep komputer digital yang dapat diprogram Babbage dianggap oleh beberapa orang sebagai bapak komputer Babbage dikreditkan dengan penemuan komputer mekanis pertama Difference Engine yang akhirnya mengarah pada desain elektronik yang lebih kompleks meskipun semua ide penting dari komputer modern dapat ditemukan di Babbages Analytical Mesin Karyanya yang bervariasi di bidang lain telah membuatnya digambarkan sebagaiunggulandi antara banyak polimatik di abadnya</item>
+        <item>James Watt adalah seorang insinyur besar dari Skotlandia Britania Raya Pada awalnya ia tertarik dengan mesin uap karena memperhatikan mesin uap buatan Newcome yang kurang efisien Lalu ia terus melakukan beberapa percobaan dan penelitian Ia berhasil menciptakan mesin uap pertama yang efisien Ternyata mesin uap ini merupakan salah satu kekuatan yang mendorong terjadinya Revolusi Industri khususnya di Britania dan Eropa pada umumnya Untuk menghargai jasanya nama belakangnya yaitu watt digunakan sebagai nama satuan daya misalnya daya mesin dan daya listrik</item>
+        <item>Alexander Graham Bell adalah seorang ilmuwan pencipta dan pendiri perusahaan telepon Bell Selain karyanya dalam teknologi telekomunikasi ia juga menyumbangkan kemajuan penting dalam teknologi penerbangan dan hidrofoil  Bell umumnya dikenal sebagai penemu telepon tahun 1876 di Amerika Serikat tetapi menurut Kongres AS pada Juni 2002 menetapkan bahwa Antonio Meucci-lah yang menemukan telepon Walaupun Alexander Graham Bell penemu telepon dia tidak pernah menelepon istri dan ibunya karena mereka tunarungu</item>
+        <item>John Dalton adalah seorang Inggris ahli kimia fisika dan meteorologi Dia terkenal karena memperkenalkan teori atom ke dalam kimia dan untuk penelitiannya tentang buta warna kadang-kadang disebut sebagai Daltonisme untuk menghormatinya Dalton adalah ilmuwan pertama yang menggunakan istilah atom untuk partikel materi terkecil yang berasal dari kata Yunani atomos yang artinya tidak dapat dibagi lagi</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/albert_einstein</item>
+        <item>@drawable/thomas_edison</item>
+        <item>@drawable/isaac_newton</item>
+        <item>@drawable/nikola_tesla</item>
+        <item>@drawable/galileo_galilei</item>
+        <item>@drawable/charles_darwin</item>
+        <item>@drawable/charles_babbage</item>
+        <item>@drawable/james_watt</item>
+        <item>@drawable/graham_bell</item>
+        <item>@drawable/john_dalton</item>
+    </array>
+
+</resources>
